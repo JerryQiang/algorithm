@@ -54,7 +54,7 @@ $$
 \\ {T(n, m)=2(n+m)}
 \end{array}
 $$
-![时间复杂度比较](res/imgs/chp01_algorithm_introduction/function_complexity_comparation.png)
+![时间复杂度比较](https://raw.githubusercontent.com/JerryQiang/algorithm/master/res/imgs/chp01_algorithm_introduction/function_complexity_comparation.png)
 <br/>
 
 
@@ -100,4 +100,4 @@ $$
 $$
 <br/>
 
-![时间复杂度记号图例](res/imgs/chp01_algorithm_introduction/function_complexity_mark.png)
+![时间复杂度记号图例](https://raw.githubusercontent.com/JerryQiang/algorithm/master/res/imgs/chp01_algorithm_introduction/function_complexity_mark.png)
